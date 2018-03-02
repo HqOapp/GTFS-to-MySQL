@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+/_tmp_zip
+.DS_Store
+supervisord.log
+supervisord.pid
+.data
+.docker-config
+.dockerignore
+npm-debug.log
+.vscode/
