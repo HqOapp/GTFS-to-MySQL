@@ -1,0 +1,2 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_1725_b_642_d_31,Year-round calendar (Monday-Friday),1,1,1,1,1,0,0,20151101,20190101

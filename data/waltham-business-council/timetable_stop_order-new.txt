@@ -1,0 +1,160 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,807645,1,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+1,835916,2,33 Hayden Ave,/Alewife Shuttle Route A
+1,835917,3,55/65 Hayden Ave,/Alewife Shuttle Route A
+1,835918,4,92 Hayden Ave,/Alewife Shuttle Route A
+1,835919,5,100 Hayden Ave,/Alewife Shuttle Route A
+1,835920,6,95 Hayden Ave,/Alewife Shuttle Route A
+1,835921,7,125 Spring Street,/Alewife Shuttle Route A
+1,835922,8,300 Shire Way,/Alewife Shuttle Route A
+1,835923,9,500 Shire Way,/Alewife Shuttle Route A
+1,835924,10,191 Spring St,/Alewife Shuttle Route A
+1,835925,11,1601 Trapelo Rd,/Alewife Shuttle Route A
+1,835926,12,404 Wyman St,/Alewife Shuttle Route A
+1,835927,13,590 Lincoln St,/Alewife Shuttle Route A
+1,835928,14,235 Wyman St,/Alewife Shuttle Route A
+1,835929,15,275 Wyman St,"/Alewife Shuttle Route A, /Waltham Shuttle Route A"
+1,835931,16,225 Wyman St,/Alewife Shuttle Route A
+1,807645,17,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+2,835924,1,191 Spring St,/Alewife Shuttle Route A
+2,835923,2,500 Shire Way,/Alewife Shuttle Route A
+2,835922,3,300 Shire Way,/Alewife Shuttle Route A
+2,835921,4,125 Spring Street,/Alewife Shuttle Route A
+2,835920,5,95 Hayden Ave,/Alewife Shuttle Route A
+2,835919,6,100 Hayden Ave,/Alewife Shuttle Route A
+2,835918,7,92 Hayden Ave,/Alewife Shuttle Route A
+2,835917,8,55/65 Hayden Ave,/Alewife Shuttle Route A
+2,835916,9,33 Hayden Ave,/Alewife Shuttle Route A
+2,807645,10,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+2,835924,11,191 Spring St,/Alewife Shuttle Route A
+3,807645,1,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+3,835935,2,75 Third Ave,/Alewife Shuttle Route B
+3,835936,3,78 Fourth Ave,/Alewife Shuttle Route B
+3,835937,4,77 City Point (77 Fourth Ave),/Alewife Shuttle Route B
+3,835938,5,230 City Point (230 Third Ave),/Alewife Shuttle Route B
+3,835939,6,400 Fifth Ave,/Alewife Shuttle Route B
+3,835940,7,100 Fifth Ave,/Alewife Shuttle Route B
+3,835941,8,10 City Point (500 Totten Pond Road),/Alewife Shuttle Route B
+4,835935,1,75 Third Ave,/Alewife Shuttle Route B
+4,835940,2,100 Fifth Ave,/Alewife Shuttle Route B
+4,835939,3,400 Fifth Ave,/Alewife Shuttle Route B
+4,835938,4,230 City Point (230 Third Ave),/Alewife Shuttle Route B
+4,835937,5,77 City Point (77 Fourth Ave),/Alewife Shuttle Route B
+4,835936,6,78 Fourth Ave,/Alewife Shuttle Route B
+4,835941,7,10 City Point (500 Totten Pond Road),/Alewife Shuttle Route B
+4,807645,8,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+4,835935,9,75 Third Ave,/Alewife Shuttle Route B
+5,807645,1,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+5,835951,2,153 Second Ave,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+5,835953,3,275 Second Ave,/Alewife Shuttle Route C
+5,835954,4,60 Hickory Drive,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+5,835956,5,200 West Street,/Alewife Shuttle Route C
+5,835957,6,40 Sylvan Rd,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+5,835958,7,35 Gatehouse Dr,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+5,807645,8,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+6,835954,1,60 Hickory Drive,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+6,835953,2,275 Second Ave,/Alewife Shuttle Route C
+6,835951,3,153 Second Ave,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+6,835956,4,200 West Street,/Alewife Shuttle Route C
+6,835957,5,40 Sylvan Rd,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+6,835958,6,35 Gatehouse Dr,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+6,807645,7,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+6,835954,8,60 Hickory Drive,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+7,807645,1,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+7,835964,2,830 Winter St,/Alewife Shuttle Route D
+7,835965,3,850/852 Winter St,"/Alewife Shuttle Route D, /Waltham Shuttle Route B"
+7,835966,4,880 Winter St,/Alewife Shuttle Route D
+7,835967,5,860 Winter St,/Alewife Shuttle Route D
+7,835968,6,930 Winter St,/Alewife Shuttle Route D
+7,835969,7,950 Winter Street,/Alewife Shuttle Route D
+7,835970,8,1000 Winter Street,/Alewife Shuttle Route D
+7,835971,9,1050 Winter Street,/Alewife Shuttle Route D
+7,835972,10,1100 Winter Street,/Alewife Shuttle Route D
+7,807645,11,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+8,835972,1,1100 Winter Street,/Alewife Shuttle Route D
+8,835971,2,1050 Winter Street,/Alewife Shuttle Route D
+8,835970,3,1000 Winter Street,/Alewife Shuttle Route D
+8,835969,4,950 Winter Street,/Alewife Shuttle Route D
+8,835968,5,930 Winter St,/Alewife Shuttle Route D
+8,835966,6,880 Winter St,/Alewife Shuttle Route D
+8,835967,7,860 Winter St,/Alewife Shuttle Route D
+8,835965,8,850/852 Winter St,"/Alewife Shuttle Route D, /Waltham Shuttle Route B"
+8,835964,9,830 Winter St,/Alewife Shuttle Route D
+8,807645,10,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+8,835972,11,1100 Winter Street,/Alewife Shuttle Route D
+9,807693,1,13 Depot Square,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807645,2,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807694,3,131 Hartwell Avenue,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807687,4,101 Hartwell Ave,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807688,5,91 Hartwell Ave,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807695,6,81 Hartwell Avenue,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807689,7,44 Hartwell,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807690,8,29/35 Hartwell,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807696,9,70 Westview St,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807691,10,Preston Court,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807709,11,10 Maguire Rd,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807710,12,4 Maguire Rd,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807692,13,420/430 Bedford St,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+9,807693,14,13 Depot Square,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807645,1,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807693,2,13 Depot Square,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807691,3,Preston Court,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807690,4,29/35 Hartwell,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807696,5,70 Westview St,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807709,6,10 Maguire Rd,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807710,7,4 Maguire Rd,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807695,8,81 Hartwell Avenue,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807688,9,91 Hartwell Ave,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807687,10,101 Hartwell Ave,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807694,11,131 Hartwell Avenue,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807689,12,44 Hartwell,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807692,13,420/430 Bedford St,"The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+10,807645,14,Alewife Station,"/Alewife Shuttle Route A, /Alewife Shuttle Route B, /Alewife Shuttle Route C, /Alewife Shuttle Route D, The Rev/Hartwell Area Shuttle (AM), The Rev/Hartwell Area Shuttle (PM)"
+11,836582,1,Newton Highlands,/Needham Shuttle
+11,836584,2,"320 Needham St, Newton",/Needham Shuttle
+11,836585,3,152 Second Ave,/Needham Shuttle
+11,836586,4,254 Second Ave,/Needham Shuttle
+11,836588,5,75 Second Ave,/Needham Shuttle
+11,836587,6,100 Cabot,/Needham Shuttle
+11,836589,7,250 First Ave,/Needham Shuttle
+11,2383126,8,89 A Street,/Needham Shuttle
+11,836591,9,110 A Street,/Needham Shuttle
+11,836592,10,63 Kendrick St,/Needham Shuttle
+11,836593,11,117 Kendrick St,/Needham Shuttle
+11,836594,12,140 Kendrick St,/Needham Shuttle
+11,836582,13,Newton Highlands,/Needham Shuttle
+12,836592,1,63 Kendrick St,/Needham Shuttle
+12,836593,2,117 Kendrick St,/Needham Shuttle
+12,836594,3,140 Kendrick St,/Needham Shuttle
+12,2383126,4,89 A Street,/Needham Shuttle
+12,836591,5,110 A Street,/Needham Shuttle
+12,836589,6,250 First Ave,/Needham Shuttle
+12,836587,7,100 Cabot,/Needham Shuttle
+12,836588,8,75 Second Ave,/Needham Shuttle
+12,836585,9,152 Second Ave,/Needham Shuttle
+12,836586,10,254 Second Ave,/Needham Shuttle
+12,836584,11,"320 Needham St, Newton",/Needham Shuttle
+12,836582,12,Newton Highlands,/Needham Shuttle
+12,836592,13,63 Kendrick St,/Needham Shuttle
+13,836595,1,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+13,835929,2,275 Wyman St,"/Alewife Shuttle Route A, /Waltham Shuttle Route A"
+13,836595,3,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+14,835929,1,275 Wyman St,"/Alewife Shuttle Route A, /Waltham Shuttle Route A"
+14,836595,2,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+14,835929,3,275 Wyman St,"/Alewife Shuttle Route A, /Waltham Shuttle Route A"
+15,836595,1,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+15,835954,2,60 Hickory Drive,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+15,835951,3,153 Second Ave,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+15,835957,4,40 Sylvan Rd,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+15,835958,5,35 Gatehouse Dr,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+15,835965,6,850/852 Winter St,"/Alewife Shuttle Route D, /Waltham Shuttle Route B"
+15,836597,7,950-1100 Winter Street,/Waltham Shuttle Route B
+15,836595,8,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+16,836597,1,950-1100 Winter Street,/Waltham Shuttle Route B
+16,835965,2,850/852 Winter St,"/Alewife Shuttle Route D, /Waltham Shuttle Route B"
+16,835958,3,35 Gatehouse Dr,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+16,835957,4,40 Sylvan Rd,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+16,835951,5,153 Second Ave,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+16,835954,6,60 Hickory Drive,"/Alewife Shuttle Route C, /Waltham Shuttle Route B"
+16,836595,7,Waltham Center Station,"/Waltham Shuttle Route A, /Waltham Shuttle Route B"
+16,836597,8,950-1100 Winter Street,/Waltham Shuttle Route B

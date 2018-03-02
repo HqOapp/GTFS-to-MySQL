@@ -1,0 +1,65 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+836589,,,250 First Ave,Bulfinch,42.299865,-71.221793,,,0,,America/New_York,,,0
+835970,,,1000 Winter Street,Bay Colony Corporate Center,42.4073471468487,-71.2748197326336,,,0,,America/New_York,,,0
+835966,,,880 Winter St,PATIENTKEEPER,42.4068976562764,-71.2814072379742,,,0,,America/New_York,,,0
+835941,,,10 City Point (500 Totten Pond Road),Boston Properties,42.3969636424348,-71.2572080352326,,,0,,America/New_York,,,0
+807691,REV5,,Preston Court,Alexandria Properties,42.48272184,-71.2636568,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835953,,,275 Second Ave,Griffith Properties,42.3884384113933,-71.2645766653126,,,0,,America/New_York,,,0
+836593,,,117 Kendrick St,Bulfinch,42.295304284193,-71.213526110438,,,0,,America/New_York,,,0
+836586,,,254 Second Ave,Atrius Health,42.3020985274412,-71.214420391031,,,0,,America/New_York,,,0
+2383126,,,89 A Street,,42.299835962623,-71.21729321615,,,0,,America/New_York,,,0
+835972,,,1100 Winter Street,Bay Colony Corporate Center,42.4096813707352,-71.2768850335751,,,0,,America/New_York,,,0
+835957,,,40 Sylvan Rd,National Grid,42.3951800618451,-71.2738321256195,,,0,,America/New_York,,,0
+807693,REV8,,13 Depot Square,Lexington Center,42.448546,-71.227899,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835936,,,78 Fourth Ave,Boston Dynamics,42.392567,-71.258528,,,0,,America/New_York,,,0
+835940,,,100 Fifth Ave,Cadmus/Yottaa  ,42.3933445282685,-71.256704085289,,,0,,America/New_York,,,0
+835939,,,400 Fifth Ave,Circles Company,42.3888903128671,-71.2594144574985,,,0,,America/New_York,,,0
+835935,,,75 Third Ave,75 Third Ave Trust,42.3956627699462,-71.2600721779098,,,0,,America/New_York,,,0
+835927,,,590 Lincoln St,Hobbs Brook Office Park,42.406669,-71.252149,,,0,,America/New_York,,,0
+807688,REV2,,91 Hartwell Ave,Boston Properties,42.46785432,-71.26478266,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+807709,REV6,,10 Maguire Rd,Imprivata,42.47250176,-71.2628803,,,0,,America/New_York,,,0
+835929,,,275 Wyman St,Cimpress,42.4065784730881,-71.2561684168419,,,0,,America/New_York,,,0
+835956,,,200 West Street,Boston Properties,42.3915094511074,-71.2704552244698,,,0,,America/New_York,,,0
+835925,,,1601 Trapelo Rd,Boston Properties - Reservoir Place,42.416937,-71.259559,,,0,,America/New_York,,,0
+835916,,,33 Hayden Ave,Alexion,42.422501,-71.235733,,,0,,America/New_York,,,0
+835924,,,191 Spring St,Spring Street Office Park,42.422642,-71.25544,,,0,,America/New_York,,,0
+835954,,,60 Hickory Drive,Aberdeen Group,42.3869605258557,-71.2634125866001,,,0,,America/New_York,,,0
+807695,REV10,,81 Hartwell Avenue,Griffith Properties,42.4707052676134,-71.2584424232788,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835920,,,95 Hayden Ave,Shire,42.424317,-71.246528,,,0,,America/New_York,,,0
+836595,,,Waltham Center Station,,42.3744764128069,-71.2356929650155,,,0,,America/New_York,,,0
+836594,,,140 Kendrick St,Parametric Technology Corporation,42.294494670222,-71.214813972162,,,0,,America/New_York,,,0
+835917,,,55/65 Hayden Ave,Merck,42.423844,-71.241924,,,0,,America/New_York,,,0
+835938,,,230 City Point (230 Third Ave),Boston Properties,42.3896579620361,-71.2604725889549,,,0,,America/New_York,,,0
+835931,,,225 Wyman St,,42.4046863113098,-71.2577214785042,,,0,,America/New_York,,,0
+835968,,,930 Winter St,Davis Marcus Partners,42.4038425914898,-71.2755036959323,,,0,,America/New_York,,,0
+835964,,,830 Winter St,Immunogen,42.40177,-71.27886,,,0,,America/New_York,,,0
+836597,,,950-1100 Winter Street,Bay Colony Corporate Center,42.4068118145299,-71.2754653497028,,,0,,America/New_York,,,0
+835965,,,850/852 Winter St,Davis Marcus Partners,42.4013580264223,-71.2812060722981,,,0,,America/New_York,,,0
+835951,,,153 Second Ave,Genzyme,42.3902941893124,-71.2637793965681,,,0,,America/New_York,,,0
+836591,,,110 A Street,Intex,42.301246891634,-71.217901540477,,,0,,America/New_York,,,0
+807710,,,4 Maguire Rd,OmniGuide Surgical,42.470571,-71.26017,,,0,,America/New_York,,,0
+835918,,,92 Hayden Ave,Innosight,42.423562,-71.247932,,,0,,America/New_York,,,0
+836588,,,75 Second Ave,Bulfinch,42.303830674298,-71.219001177258,,,0,,America/New_York,,,0
+835958,,,35 Gatehouse Dr,Astra Zeneca,42.397373344375,-71.2772494764548,,,0,,America/New_York,,,0
+835937,,,77 City Point (77 Fourth Ave),Boston Properties  ,42.3937643757395,-71.2602486269836,,,0,,America/New_York,,,0
+807687,REV1,,101 Hartwell Ave,King St Properties,42.4661720365839,-71.2639739753442,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835928,,,235 Wyman St,Hobbs Brook Office Park,42.404419,-71.255007,,,0,,America/New_York,,,0
+836582,,,Newton Highlands,,42.321860853756,-71.206342551514,,,0,,America/New_York,,,0
+807689,REV3,,44 Hartwell,Alexandria Properties,42.47168121,-71.25609431,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+807694,REV9,,131 Hartwell Avenue,Griffith Properties,42.4624714679795,-71.2675258123988,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835971,,,1050 Winter Street,Bay Colony Corporate Center,42.4106663093775,-71.2780276546154,,,0,,America/New_York,,,0
+835919,,,100 Hayden Ave,Shire,42.424232,-71.247998,,,0,,America/New_York,,,0
+835921,,,125 Spring Street,Shire,42.427041128887,-71.2494015820313,,,0,,America/New_York,,,0
+835926,,,404 Wyman St,Hobbs Brook Office Park,42.406921,-71.257311,,,0,,America/New_York,,,0
+835969,,,950 Winter Street,Bay Colony Corporate Center,42.4073412054695,-71.2736851582203,,,0,,America/New_York,,,0
+836587,,,100 Cabot,Sheraton,42.3034207990787,-71.220026574027,,,0,,America/New_York,,,0
+807690,REV4,,29/35 Hartwell,Alexandria Properties,42.47402461,-71.25606749,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+807645,ASRA1,,Alewife Station,"Shuttle stop in rear of station at ""passenger pick up and drop off area""",42.39542999,-71.14260077,,http://128bc.org/alewife-shuttle-route-a,0,,America/New_York,,,0
+807692,REV7,,420/430 Bedford St,Boston Properties,42.47204227,-71.24874238,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+836585,,,152 Second Ave,Harv Vanguard,42.303836,-71.216413,,,0,,America/New_York,,,0
+807696,REV13,,70 Westview St,Griffith Properties,42.472764,-71.259379,,http://128bc.org/rev-hartwell-area-shuttle,0,,America/New_York,,,0
+835967,,,860 Winter St,Massachusetts Medical Society,42.4039447003073,-71.2810746440563,,,0,,America/New_York,,,0
+835923,,,500 Shire Way,Shire  ,42.429837,-71.25527,,,0,,America/New_York,,,0
+836584,,,"320 Needham St, Newton",Bulfinch,42.3072076994622,-71.2164806238351,,,0,,America/New_York,,,0
+836592,,,63 Kendrick St,Charles River Place,42.2965477705172,-71.2110524986629,,,0,,America/New_York,,,0
+835922,,,300 Shire Way,,42.4275984439716,-71.251683171793,,,0,,America/New_York,,,0

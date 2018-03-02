@@ -1,0 +1,10 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+466,4732,,Alewife Shuttle Route A,,3,http://128bc.org/alewife-shuttle-route-a/,ff0000,ffffff,1,
+466,4733,,Alewife Shuttle Route B,,3,http://128bc.org/alewife-shuttle-route-b/,ff0013,ffffff,2,
+466,4734,,Alewife Shuttle Route C,,3,http://128bc.org/alewife-shuttle-route-c/,d21f14,ffffff,3,
+466,4736,,Alewife Shuttle Route D,,3,http://128bc.org/alewife-shuttle-route-d/,e9001e,ffffff,4,
+466,3231,The Rev,Hartwell Area Shuttle (AM),,3,,400080,ffffff,5,
+466,3232,The Rev,Hartwell Area Shuttle (PM),,3,,400080,ffffff,6,
+466,4765,,Needham Shuttle,,3,http://128bc.org/needham-shuttle/,005929,ffffff,7,
+466,4766,,Waltham Shuttle Route A,,3,http://128bc.org/Waltham_route_A,96007e,ffffff,8,
+466,4767,,Waltham Shuttle Route B,,3,http://128bc.org/waltham-shuttle/,96007e,ffffff,9,
